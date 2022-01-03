@@ -27,15 +27,13 @@ Exhibition:
 ### 2. Moving Detection
 Purpose: Making sleeping quality analysis<br>
 Method: Compare mask image similarity (SSIM)<br>
-
 Result:
 
 - Mask Image
 
 ![image](https://user-images.githubusercontent.com/56544982/147926484-5d0b1587-8b64-4573-a679-9cf2c32b077d.png)
 
-- Compare the discrete level of using mak image and raw image
-red: mask, blue: original
+- Compare the discrete level of using mak image and raw image (red: mask, blue: original)
 
 ![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
 
