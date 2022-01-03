@@ -31,21 +31,23 @@ Purpose: Making sleeping quality analysis<br>
 Method: Compare mask image similarity (SSIM)<br>
 Exhibition:
 
-- Mask Image
+- 1. Mask Image
 
 ![image](https://user-images.githubusercontent.com/56544982/147926484-5d0b1587-8b64-4573-a679-9cf2c32b077d.png)
 
-- Compare the discrete level of using mak image and raw image (red: mask, blue: original)
+- 2. Compare the discrete level of using mak image and raw image (red: mask, blue: original)
 
 ![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
 
-- Claculate moving times
+- 3. Claculate moving times
 
 ![image](https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png)
 
-- Calculate moving degree
+- 4. Calculate moving degree
 
 ![image](https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png)
+
+### 3. Leaving Bed Detection
 
 
 
