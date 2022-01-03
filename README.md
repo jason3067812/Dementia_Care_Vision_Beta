@@ -10,6 +10,7 @@ This research is still under development and will be published soon
 ## Recently Progress
 
 ### 1. Magic Eraser
+
 Purpose: Solving noise pixel caused by PIR camera<br>
 Method: 
 - step1: Go through all single pixel
@@ -25,9 +26,10 @@ Exhibition:
 
 
 ### 2. Moving Detection
+
 Purpose: Making sleeping quality analysis<br>
 Method: Compare mask image similarity (SSIM)<br>
-Result:
+Exhibition:
 
 - Mask Image
 
@@ -36,6 +38,14 @@ Result:
 - Compare the discrete level of using mak image and raw image (red: mask, blue: original)
 
 ![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
+
+- Claculate moving times
+
+![image](https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png)
+
+- Calculate moving degree
+
+![image](https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png)
 
 
 
