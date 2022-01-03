@@ -25,8 +25,10 @@ Exhibition:
 
 
 ### 2. Moving Detection
-Purpose: Making sleeping quality analysis
-Method: Compare image similarity
+Purpose: Making sleeping quality analysis<br>
+Problem: SSIM is easily influenced by heat noise bc it considers brightness and contrast<br>
+Method: Compare image similarity (SSIM)
+
 
 
 
