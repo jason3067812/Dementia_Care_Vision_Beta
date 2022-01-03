@@ -18,3 +18,8 @@ Method:
 
 
 ### 2. moving detection
+
+
+### 3. leaving detection algorithm
+
+
