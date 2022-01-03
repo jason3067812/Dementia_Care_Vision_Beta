@@ -26,8 +26,23 @@ Exhibition:
 
 ### 2. Moving Detection
 Purpose: Making sleeping quality analysis<br>
-Method: Compare image similarity (SSIM)<br>
-Problem: SSIM is easily influenced by heat noise bc it considers brightness and contrast<br>
+Method: Compare mask image similarity (SSIM)<br>
+
+Result:
+
+- Mask Image
+
+![image](https://user-images.githubusercontent.com/56544982/147926484-5d0b1587-8b64-4573-a679-9cf2c32b077d.png)
+
+- Compare the discrete level of using mak image and raw image
+
+![image](https://user-images.githubusercontent.com/56544982/147926581-27ab96c2-d9e8-4e09-a807-06128ff96b2e.png)
+
+
+
+
+
+
 
 
 
