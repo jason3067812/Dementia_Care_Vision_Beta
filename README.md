@@ -29,7 +29,8 @@ Exhibition:
 
 Purpose: Making sleeping quality analysis<br>
 Method:
-- Compare "mask image" similarity (SSIM) {to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure}
+- Compare "mask image" similarity (SSIM) 
+- Why using mask image? => to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure
 
 Exhibition:
 
@@ -37,7 +38,7 @@ Exhibition:
 
 ![image](https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png)
 
-- 2. Compare the discrete level of using mak image and raw image (red: mask, blue: original)
+- 2. Compare the discrete level of using mak image and raw image (red: mask, blue: raw)
 
 ![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
 
