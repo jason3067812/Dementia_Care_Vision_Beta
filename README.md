@@ -7,7 +7,7 @@ This research is still under development and will be published soon
 - Develop a bed exist monitor by PIR camera
 - Analyze sleeping quality in computer vision viewpoint
 
-## Recently Progress
+## Progress so far
 
 ### 1. Magic Eraser
 
