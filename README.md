@@ -29,7 +29,7 @@ Exhibition:
 
 Purpose: Making sleeping quality analysis<br>
 Method:
-- Compare "mask image" similarity (SSIM) {to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure}<br>
+- Compare "mask image" similarity (SSIM) {to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure}
 Exhibition:
 
 - 1. Mask Image
