@@ -7,7 +7,7 @@ This research is still under development and will be published soon
 - Develop a bed exist monitor by PIR camera
 - Analyze sleeping quality in computer vision viewpoint
 
-## Progress
+## Recently Progress
 
 ### 1. Magic Eraser
 Purpose: solving noise pixel caused by PIR camera<br>
