@@ -26,6 +26,5 @@ Exhibition:
 ### 2. Moving Detection
 
 
-### 3. Leave Bed Detection 
 
 
