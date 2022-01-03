@@ -11,8 +11,10 @@ This research is still under development and will be published soon.
 
 ### 1. magic eraser
 Purpose: solving noise pixel caused by sensor 
+Method: 
 
-![image](https://user-images.githubusercontent.com/56544982/147921116-a64d0748-f192-4f0c-81cb-baf8032aeffe.png)
+![image](https://user-images.githubusercontent.com/56544982/147921171-7d7d4cd5-0028-40a6-a597-b28d9fed2fec.png)
+
 
 
 ### 2. moving detection
