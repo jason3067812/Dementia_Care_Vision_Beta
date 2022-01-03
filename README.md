@@ -10,7 +10,7 @@ This research is still under development and will be published soon
 ## Recently Progress
 
 ### 1. Magic Eraser
-Purpose: solving noise pixel caused by PIR camera<br>
+Purpose: Solving noise pixel caused by PIR camera<br>
 Method: 
 - step1: Go through all single pixel
 - step2: Calculate the difference between the current point and the surrounding points
@@ -25,6 +25,9 @@ Exhibition:
 
 
 ### 2. Moving Detection
+Purpose: Making sleeping quality analysis
+Method: Compare image similarity
+
 
 
 
