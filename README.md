@@ -10,7 +10,7 @@ This research is still under development and will be published soon.
 ## Progress
 
 ### 1. magic eraser
-Purpose: solving noise pixel caused by sensor 
+Purpose: solving noise pixel caused by sensor <br>
 Method: 
 
 ![image](https://user-images.githubusercontent.com/56544982/147921171-7d7d4cd5-0028-40a6-a597-b28d9fed2fec.png)
