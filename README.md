@@ -9,7 +9,7 @@ This research is still under development and will be published soon.
 
 ## Progress
 
-### 1. magic eraser
+### 1. Magic eraser
 Purpose: solving noise pixel caused by sensor problem<br>
 Method: 
 
@@ -17,9 +17,9 @@ Method:
 
 
 
-### 2. moving detection
+### 2. Moving detection
 
 
-### 3. leaving detection algorithm
+### 3. Leaving detection algorithm
 
 
