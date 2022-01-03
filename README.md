@@ -35,8 +35,10 @@ Result:
 ![image](https://user-images.githubusercontent.com/56544982/147926484-5d0b1587-8b64-4573-a679-9cf2c32b077d.png)
 
 - Compare the discrete level of using mak image and raw image
+red: mask, blue: original
 
-![image](https://user-images.githubusercontent.com/56544982/147926581-27ab96c2-d9e8-4e09-a807-06128ff96b2e.png)
+![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
+
 
 
 
