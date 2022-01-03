@@ -8,3 +8,7 @@ This research is still under development and will be published soon.
 - Analyze sleeping quality by comparing mask image SSIM
 
 ## Progress
+
+### 1. magic eraser
+
+### 2. moving detection
