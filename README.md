@@ -8,8 +8,8 @@ This research is still under development and will be published soon
 - Analyze sleeping quality in computer vision viewpoint
 
 ## Progress so far
-
-### 1. Magic Eraser
+### Image Prerpocessing
+#### 1. Magic Eraser
 
 Purpose: Solving noise pixel caused by PIR camera<br>
 Method: 
@@ -25,7 +25,7 @@ Exhibition:
 ![image](https://user-images.githubusercontent.com/56544982/147922056-4afca771-693d-4393-b1d5-3ed6c463ad08.png)
 
 
-### 2. Moving Detection
+### Moving Detection
 
 Purpose: Making sleeping quality analysis<br>
 Method:
