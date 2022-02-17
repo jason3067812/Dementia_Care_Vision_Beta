@@ -1,6 +1,6 @@
 # Dementia-Care-Vision-Beta
  
-This research is still under development and will be published soon
+- This research is still under development and will be published soon
 
 ## Abstract
 
