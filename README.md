@@ -40,11 +40,11 @@
 
 <img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
 
-  Claculate moving times:
+- Result_3_Claculate moving times:
 
 <img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="60%"/>
 
-  Calculate moving degree:
+- Result_4_Calculate moving degree:
 
 <img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="90%"/>
 
