@@ -34,7 +34,7 @@
   
 - Results:
 
-  - Mask Image
+<Mask Image>
 
 <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
 
