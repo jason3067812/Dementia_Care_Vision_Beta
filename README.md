@@ -1,6 +1,6 @@
 # Dementia-Care-Vision-Beta
  
-- This research is still under development and will be published soon
+- This research is still under development and will be published soon.
 
 ## Abstract
 
@@ -35,18 +35,18 @@ Exhibition:
 
 - 1. Mask Image
 - 
-<img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
 
 - 2. Compare SSIM discrete level of using mak image and raw image (red: mask, blue: raw)
 
-<img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
 
 - 3. Claculate moving times
 
-<img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="60%"/>
 
 - 4. Calculate moving degree
 
-<img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="60%"/>
 
 
