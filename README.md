@@ -8,8 +8,8 @@ This research is still under development and will be published soon
 - Analyze sleeping quality in computer vision viewpoint
 
 ## Progress so far
-### Image Prerpocessing
-#### 1. Magic Eraser
+### 1. Image Prerpocessing
+#### a. Magic Eraser
 
 Purpose: Solving noise pixel caused by PIR camera<br>
 Method: 
@@ -24,7 +24,7 @@ Exhibition:
 
 <img src="https://user-images.githubusercontent.com/56544982/147922056-4afca771-693d-4393-b1d5-3ed6c463ad08.png" alt="Cover" width="70%"/>
 
-### Moving Detection
+### 2. Moving Detection
 
 Purpose: Making sleeping quality analysis<br>
 Method:
@@ -34,33 +34,19 @@ Method:
 Exhibition:
 
 - 1. Mask Image
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png)
+- 
+<img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="50%"/>
 
 - 2. Compare SSIM discrete level of using mak image and raw image (red: mask, blue: raw)
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png)
+
+<img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="50%"/>
 
 - 3. Claculate moving times
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png)
+
+<img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="50%"/>
 
 - 4. Calculate moving degree
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="50%"/>
 
 
