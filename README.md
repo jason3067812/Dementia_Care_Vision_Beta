@@ -32,12 +32,11 @@
   - Compare "mask image" similarity (SSIM) 
   - Why using mask image? => to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure
   
-- Results:
+- Result_1_Mask Image:
 
 <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
-(img1. Mask Image)
 
-   Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image):
+- Result_2_Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image):
 
 <img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
 
