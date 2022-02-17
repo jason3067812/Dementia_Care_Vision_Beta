@@ -12,6 +12,7 @@
 #### a. Magic Eraser
 
 - Purpose: Solving noise pixel caused by PIR camera<br>
+
 - Method:
   - step1: Go through all single pixel
   - step2: Calculate the difference between the current point and the surrounding points
@@ -33,19 +34,19 @@
   
 - Results:
 
-  - 1. Mask Image
+  - 1. Mask Image<br>
 
     <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
 
-  - 2. Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image)
+  - 2. Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image)<br>
 
     <img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
 
-  - 3. Claculate moving times
+  - 3. Claculate moving times<br>
 
     <img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="60%"/>
 
-  - 4. Calculate moving degree
+  - 4. Calculate moving degree<br>
 
     <img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="90%"/>
 
