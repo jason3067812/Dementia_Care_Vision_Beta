@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
 
-  Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image):
+   Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image):
 
 <img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
 
