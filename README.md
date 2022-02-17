@@ -12,10 +12,10 @@
 #### a. Magic Eraser
 
 - Purpose: Solving noise pixel caused by PIR camera<br>
-- Method: 
- - step1: Go through all single pixel
- - step2: Calculate the difference between the current point and the surrounding points
- - step3: If all difference > threshold, let current pixel = all surround pixels’ average
+- Method:
+  - step1: Go through all single pixel
+  - step2: Calculate the difference between the current point and the surrounding points
+  - step3: If all difference > threshold, let current pixel = all surround pixels’ average
 
 - Effect Exhibition: 
 
