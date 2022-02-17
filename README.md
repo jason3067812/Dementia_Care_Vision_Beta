@@ -20,9 +20,9 @@
 
 - Results: 
 
-<img src="https://user-images.githubusercontent.com/56544982/147921171-7d7d4cd5-0028-40a6-a597-b28d9fed2fec.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147921171-7d7d4cd5-0028-40a6-a597-b28d9fed2fec.png" alt="Cover" width="70%"/>
 
-<img src="https://user-images.githubusercontent.com/56544982/147922056-4afca771-693d-4393-b1d5-3ed6c463ad08.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147922056-4afca771-693d-4393-b1d5-3ed6c463ad08.png" alt="Cover" width="70%"/>
 
 ### 2. Moving Detection
 
@@ -34,18 +34,18 @@
   
 - Result 1: Mask Image
 
-<img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="70%"/>
 
 - Result 2: Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image)
 
-<img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926620-48c2f4e2-40b6-4c28-b4c3-7057c8e08daa.png" alt="Cover" width="70%"/>
 
 - Result 3: Claculate moving times
 
-<img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926773-f25537ed-c58e-490a-a0c6-90082427a394.png" alt="Cover" width="70%"/>
 
 - Result 4: Calculate moving degree
 
-<img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="85%"/>
+<img src="https://user-images.githubusercontent.com/56544982/147926796-cc4ed3cb-5b92-4f11-a020-e0e03b5cd778.png" alt="Cover" width="90%"/>
 
 
