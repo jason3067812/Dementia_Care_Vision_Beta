@@ -30,7 +30,6 @@
   - Compare "mask image" similarity (SSIM) 
   - Why using mask image? => to remove the factors(brightness and contrast) that will affect SSIM, only remain the pattern structure
 - Results:
-
   - 1. Mask Image
 
 <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
