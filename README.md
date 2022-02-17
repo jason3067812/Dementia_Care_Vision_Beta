@@ -17,7 +17,6 @@ Method:
 - step2: Calculate the difference between the current point and the surrounding points
 - step3: If all difference > threshold, let current pixel = all surround pixels’ average
 
-
 Exhibition: 
 
 <img src="https://user-images.githubusercontent.com/56544982/147921171-7d7d4cd5-0028-40a6-a597-b28d9fed2fec.png" alt="Cover" width="60%"/>
