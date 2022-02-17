@@ -34,9 +34,8 @@
   
 - Results:
 
-  Mask Image:
-
 <img src="https://user-images.githubusercontent.com/56544982/147926987-02e70bef-9e99-4a9b-83fc-f75a68c9a147.png" alt="Cover" width="60%"/>
+(img1. Mask Image)
 
    Compare SSIM discrete level of using mak image and raw image (red dots: mask image, blue dots: raw image):
 
