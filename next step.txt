@@ -1,0 +1,4 @@
+1. 確認是否離床detection或exist detection
+2. heat remian問題: 純相機or motion sensor
+3. 效能: 模型跑兩次=>跑一次
+4. 
