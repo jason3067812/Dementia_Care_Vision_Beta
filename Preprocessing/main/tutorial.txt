@@ -1,0 +1,1 @@
+image.c -> out -> csv2jpg.py -> out_image

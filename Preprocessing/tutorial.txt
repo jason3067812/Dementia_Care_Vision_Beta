@@ -1,0 +1,2 @@
+csv2jpg   ->      magic_eraser   ->   get_bed_coordinate   ->   split_bed_floor
+               or image_denoise         
