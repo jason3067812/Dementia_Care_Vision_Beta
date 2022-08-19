@@ -50,4 +50,4 @@
 
 ## Next Step
 
-=> next step.txt
+=> Creating multiple input and single output model
